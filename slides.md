@@ -19,6 +19,10 @@ mdc: true
 
 * {
   font-family: 'Inter', sans-serif;
+   user-select: text !important;
+  -webkit-user-select: text !important;
+  -moz-user-select: text !important;
+  -ms-user-select: text !important;
 }
 
 .slidev-layout {
