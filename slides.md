@@ -285,10 +285,14 @@ transition: fade
 <h3 class="text-2xl font-bold mb-4">⚖️ Resource Constraints</h3>
 <div class="space-y-3">
 <div class="p-3 bg-white/10 rounded-lg">
-<strong>Capital:</strong> $a_{KC}Q_C + a_{KF}Q_F \leq K$
+
+**Capital:** $a_{KC}Q_C + a_{KF}Q_F \leq K$
+
 </div>
 <div class="p-3 bg-white/10 rounded-lg">
-<strong>Labor:</strong> $a_{LC}Q_C + a_{LF}Q_F \leq L$
+
+**Labor:** $a_{LC}Q_C + a_{LF}Q_F \leq L$
+
 </div>
 </div>
 </div>
